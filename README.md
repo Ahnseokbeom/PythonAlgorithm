@@ -33,14 +33,14 @@
 
 - Level 1
 
-  - [PRO_1_100.py](Programmers/Level1/PRO_1_100.py)
-  - [PRO_1_101.py](Programmers/Level1/PRO_1_101.py)
+  - [PRO1_100.py](Programmers/Level1/PRO1_100.py)
+  - [PRO1_101.py](Programmers/Level1/PRO1_101.py)
     ...
 
 - Level 2
 
-  - [PRO_2_200.py](Programmers/Level2/PRO_2_200.py)
-  - [PRO_2_201.py](Programmers/Level2/PRO_2_201.py)
+  - [PRO2_200.py](Programmers/Level2/PRO2_200.py)
+  - [PRO2_201.py](Programmers/Level2/PRO2_201.py)
     ...
 
 ## Contributing
