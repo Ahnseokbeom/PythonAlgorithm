@@ -42,7 +42,3 @@
   - [PRO2_200.py](Programmers/Level2/PRO2_200.py)
   - [PRO2_201.py](Programmers/Level2/PRO2_201.py)
     ...
-
-## Contributing
-
-이 리포지토리에 기여하려면 [Contribution Guidelines](CONTRIBUTING.md)를 참조하세요.
